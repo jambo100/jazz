@@ -1,0 +1,75 @@
+# === 澶ф暟鎹洰褰?===
+AppData/
+.cache/
+.codex/
+.claude/
+.agents/
+.echobird/
+.vscode/
+.vscode-shared/
+.config/
+.m2/
+
+# === 搴旂敤閰嶇疆/缂撳瓨锛堜笉璺熻釜锛?===
+.cc-switch/
+.chrome-debug-profile/
+.copilot/
+.leigod/
+.leigod-8b3c9341.config/
+.leigod-c5e96d21.config/
+.nn-acc/
+.redhat/
+.sbx-denybin/
+.android/
+.local/
+.ssh/
+clawd/
+
+# === 渚濊禆鍜岀紦瀛?===
+node_modules/
+.pnpm-store/
+.npm/
+**/node_modules/
+
+# === 妗岄潰鍜屾枃妗?===
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+OneDrive/
+
+# === 绯荤粺鐢ㄦ埛鐩綍 ===
+Contacts/
+Favorites/
+Links/
+Saved Games/
+Searches/
+
+# === 绯荤粺鏂囦欢 ===
+NTUSER.DAT*
+ntuser.*
+*.LOG*
+
+# === 澶囦唤鏂囦欢 ===
+*.bak
+
+# === 涓存椂鏂囦欢 ===
+*.tmp
+*.temp
+
+# === Windows 缂╃暐鍥?===
+Thumbs.db
+*.Thumbs.db
+
+# === IDE ===
+.idea/
+*.iml
+
+# === OS ===
+.DS_Store
+# === 个人配置（含敏感信息） ===
+.claude.json
+.gitconfig
+.lesshst
